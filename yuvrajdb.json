@@ -1,0 +1,32 @@
+{
+    "employees" :[
+    {
+      "name": "Yuvraj Singh Bhadoria",
+      "dateOfBirth": "2nd October 2000",
+      "occupation": "Chief Executive Officer",
+      "company": "Reckon",
+      "id": 1
+    },
+    {
+      "name": "Nipun Sharma",
+      "dateOfBirth": "2nd October 2000",
+      "occupation": "Indian Administrative Officer",
+      "company": "Reckon",
+      "id": 2
+    },
+    {
+      "name": "Furquan Ghori",
+      "dateOfBirth": "13th April 2000",
+      "occupation": "COO",
+      "company": "Reckon",
+      "id": 3
+    },
+    {
+      "name": "Nishchay Mahor",
+      "dateOfBirth": "2nd October 2000",
+      "occupation": "CTO",
+      "company": "Reckon",
+      "id": 4
+    }
+  ]
+}
